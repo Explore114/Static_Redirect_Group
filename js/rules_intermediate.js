@@ -1262,5 +1262,9 @@ window.RULES_INTERMEDIATE = {
     "/example4": {
         "url": "https://0.0.0.0:8000/echo?payload=%3Cscript%3Ehi%3C/script%3E",
         "expired_at": "2026-01-16T01:50:00.000Z"
+    },
+    "/example5": {
+        "url": "http://example.com/echo?text=<script>alert(1)</script>",
+        "expired_at": "2026-01-16T03:53:00.000Z"
     }
 };
