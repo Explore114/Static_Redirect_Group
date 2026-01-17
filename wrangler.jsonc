@@ -1,5 +1,5 @@
 {
-  "compatibility_date": "2025-07-03",
+  "compatibility_date": "2026-01-17",
   "name": "static-redirect-group",
   "main": "worker.js",
     "observability": {
