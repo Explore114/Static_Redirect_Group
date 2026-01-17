@@ -18,7 +18,6 @@
     }
   },
   "vars": {
-    "GITHUB_TOKEN": "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",
     "GITHUB_OWNER": "Explore114",
     "GITHUB_REPO": "Static_Redirect_Group",
     "BASE_DOMAIN": "dl.hinincs.top"
