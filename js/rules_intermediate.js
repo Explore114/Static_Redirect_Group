@@ -6,5 +6,9 @@ window.RULES_INTERMEDIATE = {
     "/duoco23": {
         "url": "https://duoco.hinincs.top/",
         "expired_at": "2026-01-18T10:22:00.000Z"
+    },
+    "/baidu": {
+        "url": "https://www.baidu.com/",
+        "expired_at": "2026-01-18T10:41:00.000Z"
     }
 };
